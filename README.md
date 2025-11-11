@@ -57,9 +57,9 @@ Output: Enter number of elements: 5 Enter 5 elements: 10 20 30 40 50 Sum = 150 A
 
 🔟 Student Class and Display Info
 Description: Uses a class Student to store and display student details using object-oriented programming.
-Output: Enter student name: Talha Enter student age: 20 Enter student marks: 88.5
+Output: Enter student name: Beas Enter student age: 20 Enter student marks: 88.5
 
---- Student Details --- Name: Talha Age: 20 Marks: 88.5
+--- Student Details --- Name: Beas Age: 20 Marks: 88.5
 
 ⚙️ How to Run the Programs
 Save each code in a separate .java file with the same class name.
